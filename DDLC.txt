@@ -1,2 +1,5 @@
 my first project
 DDLC(document development life cycle)
+DDLC is a complete cycle of documentation. To write a document various steps are involved and it shows the various phases involved to write any kind of document. As a technical writer you should have at least a conceptual knowledge of DDLC.
+
+It is necessary to develop the document to enhance the clarity and understandability of end user to interpret the document.
