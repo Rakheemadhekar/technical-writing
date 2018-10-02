@@ -1,0 +1,2 @@
+my first project
+DDLC(document development life cycle)
